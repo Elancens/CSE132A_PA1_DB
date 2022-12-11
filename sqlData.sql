@@ -56,7 +56,6 @@ INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 8, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 9, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 10, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 11, 'NoData');
-INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 12, 'NoData');
 
 
 --Other loan 
