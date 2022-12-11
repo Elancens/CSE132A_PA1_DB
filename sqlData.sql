@@ -58,6 +58,7 @@ INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 10, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 11, 'NoData');
 
 
+
 --Other loan 
 INSERT INTO borrower (cname, lno, due) VALUES ('Odin', 5, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Odin', 8, 'NoData');
@@ -70,8 +71,22 @@ INSERT INTO borrower (cname, lno, due) VALUES ('John', 9, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Steve', 5, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Mike', 5, 'NoData');
 
+-- Test for 1f 1
 INSERT INTO borrower (cname, lno, due) VALUES ('A', 6, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('C', 6, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('D', 6, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Z', 6, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('H', 6, 'NoData');
+-- Test for 1f 2
+-- INSERT INTO borrower (cname, lno, due) VALUES ('A', 6, 'NoData');
+-- INSERT INTO borrower (cname, lno, due) VALUES ('C', 6, 'NoData');
+
+-- INSERT INTO borrower (cname, lno, due) VALUES ('Z', 3, 'NoData');
+-- INSERT INTO borrower (cname, lno, due) VALUES ('H', 3, 'NoData');
+-- -- Test for 1f 3
+-- INSERT INTO borrower (cname, lno, due) VALUES ('A', 1, 'NoData');
+-- INSERT INTO borrower (cname, lno, due) VALUES ('H', 1, 'NoData');
+
+-- INSERT INTO borrower (cname, lno, due) VALUES ('C', 8, 'NoData');
+-- INSERT INTO borrower (cname, lno, due) VALUES ('Z', 8, 'NoData');
+
