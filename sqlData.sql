@@ -45,19 +45,15 @@ INSERT INTO loan (no, type, minCredit) VALUES (11, 'student', 200);
 
 
 
---Alan have all loan
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 1, 'NoData');
-INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 2, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 2, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 3, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 4, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 5, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 6, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 7, 'NoData');
-INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 7, 'NoData');
-INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 7, 'NoData');
-INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 7, 'NoData');
-INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 7, 'NoData');
+INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 8, 'NoData');
+INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 9, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 10, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 11, 'NoData');
 INSERT INTO borrower (cname, lno, due) VALUES ('Alan', 12, 'NoData');
